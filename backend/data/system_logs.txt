@@ -1,0 +1,500 @@
+2024-01-15 08:00:28 INFO nginx: [3836.3823] Accepted publickey for ubuntu
+2024-01-15 08:01:47 INFO nginx: [761.5406] Reloading web server configurations
+2024-01-15 08:04:00 WARNING cron: [6006.1274] Checking disk quotas
+2024-01-15 08:06:27 INFO systemd: [6703.2206] Session opened for user admin
+2024-01-15 08:10:43 WARNING sudo: [6450.7830] Serving GET request to /index.html
+2024-01-15 08:14:55 INFO sshd: [2608.8320] Finished system daily tasks
+2024-01-15 08:15:08 INFO apache2: [970.0921] Reloading web server configurations
+2024-01-15 08:16:56 WARNING cron: [960.7411] Session opened for user admin
+2024-01-15 08:17:24 INFO sudo: [4030.6890] Connection closed by authenticating user root
+2024-01-15 08:20:08 INFO kernel: [7050.3839] Checking disk quotas
+2024-01-15 08:21:27 INFO cron: [8429.2339] Accepted publickey for ubuntu
+2024-01-15 08:25:16 ERROR sudo: [5954.4305] Accepted publickey for ubuntu
+2024-01-15 08:28:44 ERROR sudo: [3217.0152] Session opened for user admin
+2024-01-15 08:29:31 INFO cron: [5839.2169] Accepted publickey for ubuntu
+2024-01-15 08:32:09 WARNING systemd: [1821.1985] Accepted publickey for ubuntu
+2024-01-15 08:34:51 ERROR apache2: [9534.7493] Checking disk quotas
+2024-01-15 08:36:17 WARNING sudo: [9651.8016] Starting cleanup of temporary directories
+2024-01-15 08:39:33 INFO sshd: [6104.9872] Connection closed by authenticating user root
+2024-01-15 08:43:02 WARNING nginx: [3757.5621] Serving GET request to /index.html
+2024-01-15 08:43:28 ERROR sudo: [8769.6852] Accepted publickey for ubuntu
+2024-01-15 08:43:48 WARNING apache2: [2084.7728] Reloading web server configurations
+2024-01-15 08:47:56 WARNING sshd: [5279.3092] Checking disk quotas
+2024-01-15 08:51:34 INFO nginx: [6082.9892] Reloading web server configurations
+2024-01-15 08:52:51 INFO cron: [8105.1354] Connection closed by authenticating user root
+2024-01-15 08:53:58 INFO apache2: [6905.7303] Checking disk quotas
+2024-01-15 08:58:24 INFO apache2: [1941.4132] Reloading web server configurations
+2024-01-15 09:02:01 INFO systemd: [3907.1952] Session opened for user admin
+2024-01-15 09:04:30 INFO kernel: [3526.2125] Finished system daily tasks
+2024-01-15 09:08:37 INFO sudo: [392.9957] Starting cleanup of temporary directories
+2024-01-15 09:11:54 INFO nginx: [3947.2831] Serving GET request to /index.html
+2024-01-15 09:12:14 WARNING nginx: [6697.5381] Accepted publickey for ubuntu
+2024-01-15 09:13:39 INFO nginx: [3742.0181] Reloading web server configurations
+2024-01-15 09:14:48 WARNING apache2: [8291.6877] Starting cleanup of temporary directories
+2024-01-15 09:17:42 WARNING sshd: [3274.6985] Connection closed by authenticating user root
+2024-01-15 09:21:42 ERROR systemd: [3105.8485] Reloading web server configurations
+2024-01-15 09:24:15 INFO cron: [2811.6130] Accepted publickey for ubuntu
+2024-01-15 09:27:43 WARNING sshd: [1138.3792] Accepted publickey for ubuntu
+2024-01-15 09:27:45 ERROR sudo: [2175.4579] segfault at 0 ip 00007f9c8b9d3e error 4
+2024-01-15 09:32:18 INFO apache2: [9320.9068] Starting cleanup of temporary directories
+2024-01-15 09:34:15 ERROR systemd: [612.1537] Checking disk quotas
+2024-01-15 09:38:19 INFO sudo: [8337.9734] Starting cleanup of temporary directories
+2024-01-15 09:42:58 WARNING systemd: [8807.6491] Checking disk quotas
+2024-01-15 09:44:37 INFO apache2: [7155.8425] Serving GET request to /index.html
+2024-01-15 09:47:05 INFO sshd: [7403.4866] Accepted publickey for ubuntu
+2024-01-15 09:51:42 WARNING cron: [7526.9511] Reloading web server configurations
+2024-01-15 09:53:56 INFO kernel: [9766.5867] Checking disk quotas
+2024-01-15 09:57:32 ERROR systemd: [2345.7605] Reloading web server configurations
+2024-01-15 09:57:54 WARNING nginx: [3179.6053] Reloading web server configurations
+2024-01-15 09:59:44 WARNING sshd: [8659.6224] Finished system daily tasks
+2024-01-15 10:00:05 ERROR apache2: [7279.9276] Session opened for user admin
+2024-01-15 10:01:38 ERROR kernel: [6762.1327] Checking disk quotas
+2024-01-15 10:03:25 WARNING cron: [3290.3464] Session opened for user admin
+2024-01-15 10:07:20 ERROR apache2: [8023.3585] Serving GET request to /index.html
+2024-01-15 10:08:49 INFO systemd: [5095.4577] Starting cleanup of temporary directories
+2024-01-15 10:12:52 CRITICAL sudo: [3879.3115] Serving GET request to /index.html
+2024-01-15 10:15:54 INFO systemd: [7561.5427] Session opened for user admin
+2024-01-15 10:15:56 ERROR apache2: [7790.1193] kernel panic - not syncing
+2024-01-15 10:20:44 INFO sshd: [3844.9991] Serving GET request to /index.html
+2024-01-15 10:22:41 INFO sshd: [8079.4986] Accepted publickey for ubuntu
+2024-01-15 10:26:56 INFO sudo: [547.2295] Accepted publickey for ubuntu
+2024-01-15 10:31:04 WARNING systemd: [7354.3153] Finished system daily tasks
+2024-01-15 10:35:37 CRITICAL nginx: [7565.0850] Connection closed by authenticating user root
+2024-01-15 10:38:09 INFO sshd: [9957.1053] Connection closed by authenticating user root
+2024-01-15 10:42:43 WARNING cron: [7874.9411] Session opened for user admin
+2024-01-15 10:44:29 ERROR cron: [7792.7433] Reloading web server configurations
+2024-01-15 10:45:10 INFO systemd: [6541.4591] Finished system daily tasks
+2024-01-15 10:46:21 INFO sudo: [4478.3419] Starting cleanup of temporary directories
+2024-01-15 10:46:26 WARNING nginx: [8035.0717] rapid process spawning detected
+2024-01-15 10:49:47 INFO nginx: [8688.2834] Connection closed by authenticating user root
+2024-01-15 10:51:16 INFO kernel: [8932.4369] Reloading web server configurations
+2024-01-15 10:52:03 WARNING kernel: [4641.2806] Finished system daily tasks
+2024-01-15 10:53:46 INFO sshd: [5318.7581] Session opened for user admin
+2024-01-15 10:57:31 INFO systemd: [6314.7505] Serving GET request to /index.html
+2024-01-15 10:57:36 ERROR nginx: [6346.9115] rapid process spawning detected
+2024-01-15 11:00:39 INFO sshd: [5031.1371] Finished system daily tasks
+2024-01-15 11:01:09 INFO cron: [7315.0275] Accepted publickey for ubuntu
+2024-01-15 11:04:44 INFO kernel: [7136.6658] Reloading web server configurations
+2024-01-15 11:05:06 INFO apache2: [3900.8858] Reloading web server configurations
+2024-01-15 11:09:01 INFO sudo: [5947.0475] Starting cleanup of temporary directories
+2024-01-15 11:12:25 INFO sshd: [4322.4200] Checking disk quotas
+2024-01-15 11:13:28 INFO sudo: [1953.4250] Connection closed by authenticating user root
+2024-01-15 11:15:55 WARNING kernel: [1102.0675] Session opened for user admin
+2024-01-15 11:17:25 INFO systemd: [181.0839] Checking disk quotas
+2024-01-15 11:22:02 WARNING systemd: [5976.2733] Connection closed by authenticating user root
+2024-01-15 11:24:50 INFO sudo: [4098.0262] Finished system daily tasks
+2024-01-15 11:26:37 WARNING kernel: [6222.1994] Finished system daily tasks
+2024-01-15 11:30:23 INFO sshd: [5229.9433] Checking disk quotas
+2024-01-15 11:34:32 INFO cron: [7149.5590] Connection closed by authenticating user root
+2024-01-15 11:36:17 INFO kernel: [7081.5504] Reloading web server configurations
+2024-01-15 11:40:22 INFO apache2: [5041.4274] Checking disk quotas
+2024-01-15 11:43:32 WARNING systemd: [8994.7398] Checking disk quotas
+2024-01-15 11:48:24 CRITICAL cron: [8188.7188] Finished system daily tasks
+2024-01-15 11:53:23 WARNING sudo: [4477.0154] Starting cleanup of temporary directories
+2024-01-15 11:55:28 INFO sshd: [9013.0106] Finished system daily tasks
+2024-01-15 11:56:26 INFO apache2: [1794.5717] Session opened for user admin
+2024-01-15 12:01:19 INFO systemd: [2028.0588] Reloading web server configurations
+2024-01-15 12:04:17 INFO sudo: [4757.4948] Session opened for user admin
+2024-01-15 12:05:04 ERROR apache2: [1336.8589] Finished system daily tasks
+2024-01-15 12:09:58 INFO sshd: [7456.0540] Session opened for user admin
+2024-01-15 12:14:00 INFO sshd: [8271.1263] Reloading web server configurations
+2024-01-15 12:16:37 ERROR systemd: [6214.9974] Session opened for user admin
+2024-01-15 12:20:34 INFO apache2: [1188.8579] Serving GET request to /index.html
+2024-01-15 12:21:13 WARNING systemd: [1211.8999] Serving GET request to /index.html
+2024-01-15 12:25:56 INFO systemd: [448.3691] Connection closed by authenticating user root
+2024-01-15 12:29:44 WARNING kernel: [4770.8028] Serving GET request to /index.html
+2024-01-15 12:34:34 INFO sshd: [9845.8653] Accepted publickey for ubuntu
+2024-01-15 12:35:13 INFO nginx: [1418.8197] Starting cleanup of temporary directories
+2024-01-15 12:36:09 INFO apache2: [168.0619] Session opened for user admin
+2024-01-15 12:37:15 INFO sudo: [2927.7992] Finished system daily tasks
+2024-01-15 12:37:27 ERROR systemd: [6909.8599] Starting cleanup of temporary directories
+2024-01-15 12:38:59 ERROR systemd: [2107.8326] Reloading web server configurations
+2024-01-15 12:42:29 INFO apache2: [1793.6496] Starting cleanup of temporary directories
+2024-01-15 12:46:13 INFO kernel: [7119.6493] Accepted publickey for ubuntu
+2024-01-15 12:47:15 INFO kernel: [4923.5188] Session opened for user admin
+2024-01-15 12:52:02 INFO nginx: [3389.1222] Accepted publickey for ubuntu
+2024-01-15 12:52:55 INFO nginx: [2559.1642] Session opened for user admin
+2024-01-15 12:52:58 WARNING cron: [2993.4470] rapid process spawning detected
+2024-01-15 12:55:45 ERROR cron: [5458.3575] Starting cleanup of temporary directories
+2024-01-15 13:00:00 INFO kernel: [506.2177] Checking disk quotas
+2024-01-15 13:04:35 INFO nginx: [8710.5401] Session opened for user admin
+2024-01-15 13:09:32 WARNING nginx: [5119.4491] Checking disk quotas
+2024-01-15 13:14:15 INFO systemd: [2801.1412] Finished system daily tasks
+2024-01-15 13:16:27 INFO apache2: [6116.0410] Checking disk quotas
+2024-01-15 13:20:40 ERROR sshd: [1475.8959] Finished system daily tasks
+2024-01-15 13:22:33 INFO kernel: [2508.7150] Checking disk quotas
+2024-01-15 13:26:34 INFO nginx: [8909.3742] Session opened for user admin
+2024-01-15 13:31:13 INFO sshd: [9132.5567] Serving GET request to /index.html
+2024-01-15 13:35:49 WARNING cron: [9016.4015] Finished system daily tasks
+2024-01-15 13:39:16 INFO kernel: [2681.2779] Starting cleanup of temporary directories
+2024-01-15 13:39:27 INFO systemd: [9952.9425] Accepted publickey for ubuntu
+2024-01-15 13:43:46 INFO systemd: [8232.4521] Finished system daily tasks
+2024-01-15 13:48:31 WARNING nginx: [5250.5776] Checking disk quotas
+2024-01-15 13:48:31 ERROR cron: [1394.1815] unauthorized access attempt to /etc/shadow
+2024-01-15 13:51:54 INFO sshd: [570.0215] Connection closed by authenticating user root
+2024-01-15 13:51:57 WARNING sshd: [189.9363] Failed password for invalid user root
+2024-01-15 13:53:42 INFO cron: [1946.1764] Serving GET request to /index.html
+2024-01-15 13:54:48 INFO systemd: [5396.0465] Accepted publickey for ubuntu
+2024-01-15 13:57:40 INFO systemd: [6521.9622] Serving GET request to /index.html
+2024-01-15 14:00:21 INFO systemd: [5319.4264] Checking disk quotas
+2024-01-15 14:01:40 INFO apache2: [1558.2203] Accepted publickey for ubuntu
+2024-01-15 14:02:44 WARNING cron: [9963.0052] Checking disk quotas
+2024-01-15 14:06:40 INFO systemd: [7043.5134] Reloading web server configurations
+2024-01-15 14:07:59 INFO nginx: [6347.5353] Reloading web server configurations
+2024-01-15 14:11:41 WARNING nginx: [3776.3390] Starting cleanup of temporary directories
+2024-01-15 14:12:40 WARNING sshd: [2205.8867] Serving GET request to /index.html
+2024-01-15 14:15:59 INFO systemd: [691.0915] Session opened for user admin
+2024-01-15 14:20:18 ERROR sshd: [6576.3162] Serving GET request to /index.html
+2024-01-15 14:20:52 INFO kernel: [1177.8250] Serving GET request to /index.html
+2024-01-15 14:22:51 WARNING cron: [8802.5782] Session opened for user admin
+2024-01-15 14:24:42 INFO sudo: [9783.3020] Starting cleanup of temporary directories
+2024-01-15 14:25:12 WARNING nginx: [7956.6276] Finished system daily tasks
+2024-01-15 14:28:33 INFO cron: [4162.0798] Serving GET request to /index.html
+2024-01-15 14:31:54 INFO apache2: [4009.7924] Reloading web server configurations
+2024-01-15 14:36:30 INFO nginx: [6162.9555] Connection closed by authenticating user root
+2024-01-15 14:36:31 ERROR kernel: [945.7354] rapid process spawning detected
+2024-01-15 14:37:55 INFO sudo: [4571.0177] Checking disk quotas
+2024-01-15 14:40:13 WARNING cron: [1410.5162] Checking disk quotas
+2024-01-15 14:45:10 WARNING sshd: [9006.3263] Reloading web server configurations
+2024-01-15 14:47:01 ERROR nginx: [3936.9332] Reloading web server configurations
+2024-01-15 14:48:45 INFO nginx: [9431.5841] Connection closed by authenticating user root
+2024-01-15 14:53:20 WARNING systemd: [7621.3354] Finished system daily tasks
+2024-01-15 14:54:51 ERROR sshd: [7541.7516] Connection closed by authenticating user root
+2024-01-15 14:55:41 WARNING apache2: [7150.4617] Connection closed by authenticating user root
+2024-01-15 14:59:59 INFO sudo: [7663.2661] Starting cleanup of temporary directories
+2024-01-15 15:04:34 INFO sudo: [836.5542] Serving GET request to /index.html
+2024-01-15 15:07:01 INFO kernel: [5825.7813] Checking disk quotas
+2024-01-15 15:07:50 INFO kernel: [7115.7980] Checking disk quotas
+2024-01-15 15:10:42 WARNING cron: [3298.1921] Serving GET request to /index.html
+2024-01-15 15:10:54 INFO sudo: [9047.0458] Connection closed by authenticating user root
+2024-01-15 15:12:20 WARNING apache2: [9032.4754] Connection closed by authenticating user root
+2024-01-15 15:16:11 INFO sudo: [110.6885] Connection closed by authenticating user root
+2024-01-15 15:17:02 ERROR sshd: [7731.2374] Finished system daily tasks
+2024-01-15 15:18:47 INFO kernel: [6876.5533] Session opened for user admin
+2024-01-15 15:19:11 WARNING sshd: [2047.0013] Serving GET request to /index.html
+2024-01-15 15:19:59 INFO apache2: [4379.4818] Connection closed by authenticating user root
+2024-01-15 15:22:12 WARNING sudo: [9013.7924] Accepted publickey for ubuntu
+2024-01-15 15:26:05 INFO systemd: [8476.8179] Session opened for user admin
+2024-01-15 15:30:03 ERROR sshd: [7950.8091] Accepted publickey for ubuntu
+2024-01-15 15:34:40 INFO apache2: [8703.8304] Reloading web server configurations
+2024-01-15 15:36:55 WARNING apache2: [1923.3676] Finished system daily tasks
+2024-01-15 15:41:25 INFO sshd: [1208.7830] Connection closed by authenticating user root
+2024-01-15 15:45:08 INFO kernel: [4266.9446] Checking disk quotas
+2024-01-15 15:46:40 INFO nginx: [7575.4287] Accepted publickey for ubuntu
+2024-01-15 15:49:49 INFO sudo: [5582.7488] Serving GET request to /index.html
+2024-01-15 15:52:51 INFO sshd: [4817.8301] Finished system daily tasks
+2024-01-15 15:54:09 INFO kernel: [9405.1422] Reloading web server configurations
+2024-01-15 15:56:29 INFO nginx: [4972.1606] Connection closed by authenticating user root
+2024-01-15 15:57:36 INFO cron: [4849.6607] Session opened for user admin
+2024-01-15 15:58:52 INFO sudo: [5889.2820] Starting cleanup of temporary directories
+2024-01-15 16:00:52 INFO apache2: [2003.6101] Serving GET request to /index.html
+2024-01-15 16:01:07 ERROR sshd: [2669.7821] Checking disk quotas
+2024-01-15 16:04:57 INFO systemd: [3120.5737] Accepted publickey for ubuntu
+2024-01-15 16:09:33 INFO kernel: [3427.5068] Connection closed by authenticating user root
+2024-01-15 16:14:10 ERROR apache2: [3747.2208] Starting cleanup of temporary directories
+2024-01-15 16:17:54 WARNING apache2: [6642.9570] Session opened for user admin
+2024-01-15 16:22:45 INFO sudo: [4750.0965] Starting cleanup of temporary directories
+2024-01-15 16:22:47 CRITICAL systemd: [6425.0719] segfault at 0 ip 00007f9c8b9d3e error 4
+2024-01-15 16:24:31 INFO systemd: [4398.7576] Reloading web server configurations
+2024-01-15 16:25:40 INFO sudo: [6530.7237] Checking disk quotas
+2024-01-15 16:26:55 INFO kernel: [3218.6741] Session opened for user admin
+2024-01-15 16:27:43 INFO sshd: [7585.4594] Checking disk quotas
+2024-01-15 16:30:21 INFO cron: [610.5128] Starting cleanup of temporary directories
+2024-01-15 16:30:54 INFO nginx: [6140.0121] Checking disk quotas
+2024-01-15 16:31:11 ERROR sshd: [8316.0620] Accepted publickey for ubuntu
+2024-01-15 16:35:48 INFO systemd: [2253.9856] Serving GET request to /index.html
+2024-01-15 16:40:15 INFO sshd: [2183.7497] Finished system daily tasks
+2024-01-15 16:44:26 WARNING kernel: [6807.1767] Checking disk quotas
+2024-01-15 16:48:16 INFO apache2: [4062.2080] Serving GET request to /index.html
+2024-01-15 16:48:16 ERROR kernel: [1559.3900] Out of memory: Killed process 1234 (apache2)
+2024-01-15 16:52:46 WARNING systemd: [7757.4582] Session opened for user admin
+2024-01-15 16:55:29 WARNING kernel: [3224.0654] Reloading web server configurations
+2024-01-15 16:58:49 ERROR nginx: [2023.9089] Reloading web server configurations
+2024-01-15 17:02:44 WARNING sshd: [1815.7754] Serving GET request to /index.html
+2024-01-15 17:06:47 INFO nginx: [3733.7214] Finished system daily tasks
+2024-01-15 17:10:16 WARNING apache2: [3923.1901] Reloading web server configurations
+2024-01-15 17:11:20 WARNING apache2: [4636.4569] Accepted publickey for ubuntu
+2024-01-15 17:13:20 WARNING kernel: [2875.6610] Serving GET request to /index.html
+2024-01-15 17:15:03 INFO nginx: [8756.4243] Checking disk quotas
+2024-01-15 17:19:44 INFO sshd: [6242.8099] Starting cleanup of temporary directories
+2024-01-15 17:24:29 INFO sudo: [5857.9678] Finished system daily tasks
+2024-01-15 17:25:31 INFO sudo: [6977.2838] Starting cleanup of temporary directories
+2024-01-15 17:26:57 ERROR apache2: [5268.4100] Serving GET request to /index.html
+2024-01-15 17:29:35 INFO systemd: [6170.4190] Connection closed by authenticating user root
+2024-01-15 17:31:12 INFO sudo: [7426.7228] Serving GET request to /index.html
+2024-01-15 17:35:57 INFO apache2: [1303.9681] Checking disk quotas
+2024-01-15 17:39:51 WARNING cron: [7450.0253] Connection closed by authenticating user root
+2024-01-15 17:40:46 INFO nginx: [1634.5629] Checking disk quotas
+2024-01-15 17:44:11 WARNING cron: [9183.9404] Session opened for user admin
+2024-01-15 17:45:25 WARNING systemd: [8581.6267] Reloading web server configurations
+2024-01-15 17:46:46 WARNING apache2: [7159.1182] Connection closed by authenticating user root
+2024-01-15 17:48:53 ERROR cron: [4574.3840] Accepted publickey for ubuntu
+2024-01-15 17:51:15 WARNING cron: [7222.8434] Session opened for user admin
+2024-01-15 17:53:25 WARNING nginx: [5371.4068] Session opened for user admin
+2024-01-15 17:57:17 INFO kernel: [5645.3070] Connection closed by authenticating user root
+2024-01-15 17:59:29 ERROR kernel: [9346.3497] Finished system daily tasks
+2024-01-15 18:02:07 INFO systemd: [6425.3121] Connection closed by authenticating user root
+2024-01-15 18:04:18 INFO sshd: [4406.2755] Serving GET request to /index.html
+2024-01-15 18:07:20 ERROR sshd: [4933.5882] Checking disk quotas
+2024-01-15 18:09:56 ERROR sshd: [2714.5580] Serving GET request to /index.html
+2024-01-15 18:12:37 INFO systemd: [4689.4671] Finished system daily tasks
+2024-01-15 18:14:37 INFO apache2: [7205.1289] Serving GET request to /index.html
+2024-01-15 18:16:06 WARNING sshd: [160.2515] Reloading web server configurations
+2024-01-15 18:17:19 INFO kernel: [9249.9853] Accepted publickey for ubuntu
+2024-01-15 18:20:43 INFO sudo: [2616.3395] Serving GET request to /index.html
+2024-01-15 18:20:59 INFO sshd: [9239.9190] Accepted publickey for ubuntu
+2024-01-15 18:21:50 INFO nginx: [4695.9016] Checking disk quotas
+2024-01-15 18:21:51 ERROR sshd: [3571.7567] segfault at 0 ip 00007f9c8b9d3e error 4
+2024-01-15 18:25:23 INFO apache2: [5573.7801] Finished system daily tasks
+2024-01-15 18:30:21 INFO kernel: [3297.4829] Connection closed by authenticating user root
+2024-01-15 18:32:01 WARNING cron: [8243.3210] Starting cleanup of temporary directories
+2024-01-15 18:35:20 INFO nginx: [4167.0565] Accepted publickey for ubuntu
+2024-01-15 18:39:56 INFO nginx: [5175.0070] Reloading web server configurations
+2024-01-15 18:44:08 INFO apache2: [7827.5324] Reloading web server configurations
+2024-01-15 18:44:48 INFO sudo: [3915.4411] Connection closed by authenticating user root
+2024-01-15 18:48:15 INFO apache2: [1829.8027] Starting cleanup of temporary directories
+2024-01-15 18:53:14 CRITICAL sudo: [6670.0277] Session opened for user admin
+2024-01-15 18:55:18 ERROR systemd: [567.6386] Accepted publickey for ubuntu
+2024-01-15 18:56:42 INFO cron: [9530.4432] Session opened for user admin
+2024-01-15 18:57:33 WARNING nginx: [1475.7945] Finished system daily tasks
+2024-01-15 18:59:55 INFO sudo: [8575.6857] Starting cleanup of temporary directories
+2024-01-15 19:00:56 WARNING sshd: [4093.4345] Session opened for user admin
+2024-01-15 19:01:09 INFO cron: [8784.0710] Reloading web server configurations
+2024-01-15 19:05:08 WARNING kernel: [6546.1745] Starting cleanup of temporary directories
+2024-01-15 19:06:29 INFO sshd: [2191.7308] Serving GET request to /index.html
+2024-01-15 19:08:20 INFO cron: [2695.1247] Session opened for user admin
+2024-01-15 19:12:37 INFO systemd: [9889.0060] Connection closed by authenticating user root
+2024-01-15 19:16:28 WARNING apache2: [9327.7362] Connection closed by authenticating user root
+2024-01-15 19:18:07 INFO cron: [7365.8544] Reloading web server configurations
+2024-01-15 19:18:41 WARNING kernel: [5612.1351] Finished system daily tasks
+2024-01-15 19:22:39 INFO sudo: [7676.1280] Session opened for user admin
+2024-01-15 19:27:20 INFO cron: [6282.4807] Accepted publickey for ubuntu
+2024-01-15 19:27:55 INFO kernel: [1838.2625] Accepted publickey for ubuntu
+2024-01-15 19:31:35 INFO sudo: [881.8818] Finished system daily tasks
+2024-01-15 19:33:40 WARNING sudo: [6218.1579] Reloading web server configurations
+2024-01-15 19:37:34 INFO cron: [4751.9958] Serving GET request to /index.html
+2024-01-15 19:39:23 INFO sudo: [3473.9888] Checking disk quotas
+2024-01-15 19:42:22 WARNING apache2: [7045.8356] Reloading web server configurations
+2024-01-15 19:46:16 INFO apache2: [944.5939] Checking disk quotas
+2024-01-15 19:50:21 INFO sudo: [3704.7523] Connection closed by authenticating user root
+2024-01-15 19:53:01 WARNING cron: [8853.3537] Accepted publickey for ubuntu
+2024-01-15 19:55:19 INFO sshd: [1523.5684] Connection closed by authenticating user root
+2024-01-15 19:59:43 INFO cron: [4231.4716] Session opened for user admin
+2024-01-15 20:03:05 INFO sudo: [5297.6244] Session opened for user admin
+2024-01-15 20:07:34 ERROR nginx: [8702.7408] Checking disk quotas
+2024-01-15 20:07:36 ERROR sudo: [2923.3913] unauthorized access attempt to /etc/shadow
+2024-01-15 20:12:11 INFO systemd: [6465.1702] Serving GET request to /index.html
+2024-01-15 20:13:44 INFO kernel: [4907.6681] Accepted publickey for ubuntu
+2024-01-15 20:18:33 INFO cron: [5723.2248] Checking disk quotas
+2024-01-15 20:23:17 INFO cron: [1768.6779] Serving GET request to /index.html
+2024-01-15 20:23:19 WARNING systemd: [2432.4711] unauthorized access attempt to /etc/shadow
+2024-01-15 20:23:44 WARNING sshd: [5024.1748] Serving GET request to /index.html
+2024-01-15 20:25:38 WARNING sudo: [2911.5195] Finished system daily tasks
+2024-01-15 20:27:48 INFO kernel: [337.3405] Session opened for user admin
+2024-01-15 20:30:12 ERROR systemd: [7267.0906] Finished system daily tasks
+2024-01-15 20:32:36 INFO sshd: [3102.1208] Serving GET request to /index.html
+2024-01-15 20:32:48 INFO cron: [9987.1804] Starting cleanup of temporary directories
+2024-01-15 20:33:44 INFO cron: [5567.9879] Checking disk quotas
+2024-01-15 20:34:44 INFO kernel: [2888.3800] Serving GET request to /index.html
+2024-01-15 20:34:45 ERROR nginx: [5150.1949] unauthorized access attempt to /etc/shadow
+2024-01-15 20:37:51 INFO systemd: [1044.7795] Accepted publickey for ubuntu
+2024-01-15 20:39:52 WARNING nginx: [1241.1975] Reloading web server configurations
+2024-01-15 20:42:22 CRITICAL sudo: [8028.7590] Serving GET request to /index.html
+2024-01-15 20:42:26 WARNING systemd: [6675.1524] rapid process spawning detected
+2024-01-15 20:42:28 WARNING sshd: [3698.7959] rapid process spawning detected
+2024-01-15 20:42:31 WARNING sshd: [6113.7651] kernel panic - not syncing
+2024-01-15 20:47:04 ERROR sshd: [5467.8133] Starting cleanup of temporary directories
+2024-01-15 20:50:50 INFO nginx: [7665.6511] Accepted publickey for ubuntu
+2024-01-15 20:53:22 ERROR apache2: [5240.5626] Reloading web server configurations
+2024-01-15 20:53:36 INFO apache2: [468.1414] Session opened for user admin
+2024-01-15 20:58:15 WARNING sshd: [328.6092] Reloading web server configurations
+2024-01-15 20:58:54 WARNING apache2: [8082.1832] Starting cleanup of temporary directories
+2024-01-15 20:58:56 ERROR nginx: [1481.7712] rapid process spawning detected
+2024-01-15 21:01:55 ERROR kernel: [955.5917] Connection closed by authenticating user root
+2024-01-15 21:01:55 ERROR systemd: [6545.3682] excessive connections from 192.168.1.100
+2024-01-15 21:05:06 INFO systemd: [2239.5376] Accepted publickey for ubuntu
+2024-01-15 21:06:05 INFO kernel: [1662.2438] Connection closed by authenticating user root
+2024-01-15 21:10:23 INFO cron: [1993.1388] Checking disk quotas
+2024-01-15 21:13:03 WARNING cron: [533.4098] Finished system daily tasks
+2024-01-15 21:16:02 WARNING systemd: [405.6249] Accepted publickey for ubuntu
+2024-01-15 21:18:43 CRITICAL kernel: [8535.8087] Checking disk quotas
+2024-01-15 21:23:34 INFO nginx: [9908.7450] Serving GET request to /index.html
+2024-01-15 21:26:36 CRITICAL apache2: [4379.7477] Session opened for user admin
+2024-01-15 21:30:23 INFO systemd: [1580.5217] Session opened for user admin
+2024-01-15 21:33:45 INFO sshd: [6844.1939] Starting cleanup of temporary directories
+2024-01-15 21:38:10 WARNING apache2: [3300.9346] Connection closed by authenticating user root
+2024-01-15 21:41:19 WARNING cron: [6361.6031] Finished system daily tasks
+2024-01-15 21:45:54 INFO sshd: [7047.5455] Starting cleanup of temporary directories
+2024-01-15 21:49:24 WARNING systemd: [4282.1336] Checking disk quotas
+2024-01-15 21:49:54 INFO kernel: [2862.9440] Serving GET request to /index.html
+2024-01-15 21:54:10 INFO nginx: [5561.5153] Session opened for user admin
+2024-01-15 21:54:22 ERROR kernel: [1157.7507] Serving GET request to /index.html
+2024-01-15 21:55:47 INFO systemd: [9402.1232] Accepted publickey for ubuntu
+2024-01-15 21:57:43 ERROR sshd: [5034.1792] Connection closed by authenticating user root
+2024-01-15 21:57:47 CRITICAL nginx: [3482.7051] segfault at 0 ip 00007f9c8b9d3e error 4
+2024-01-15 22:02:05 INFO sudo: [8971.2714] Starting cleanup of temporary directories
+2024-01-15 22:06:38 WARNING apache2: [9712.6568] Session opened for user admin
+2024-01-15 22:11:28 INFO kernel: [6555.1342] Starting cleanup of temporary directories
+2024-01-15 22:11:31 ERROR sshd: [4014.4163] segfault at 0 ip 00007f9c8b9d3e error 4
+2024-01-15 22:12:55 INFO systemd: [6644.9581] Accepted publickey for ubuntu
+2024-01-15 22:16:35 INFO sudo: [8618.0500] Starting cleanup of temporary directories
+2024-01-15 22:17:39 ERROR cron: [7443.9006] Starting cleanup of temporary directories
+2024-01-15 22:19:41 INFO apache2: [2875.7561] Finished system daily tasks
+2024-01-15 22:22:12 ERROR sudo: [9575.8901] Accepted publickey for ubuntu
+2024-01-15 22:23:28 INFO cron: [9637.5364] Accepted publickey for ubuntu
+2024-01-15 22:24:43 INFO cron: [5843.2513] Reloading web server configurations
+2024-01-15 22:27:56 INFO systemd: [2607.7713] Session opened for user admin
+2024-01-15 22:29:05 INFO apache2: [1690.9560] Finished system daily tasks
+2024-01-15 22:31:35 INFO systemd: [8982.8776] Accepted publickey for ubuntu
+2024-01-15 22:35:43 ERROR nginx: [7258.4366] Accepted publickey for ubuntu
+2024-01-15 22:36:49 ERROR sshd: [1674.1757] Checking disk quotas
+2024-01-15 22:37:05 INFO sshd: [2963.7359] Checking disk quotas
+2024-01-15 22:38:50 INFO cron: [6328.0195] Accepted publickey for ubuntu
+2024-01-15 22:43:46 INFO cron: [1483.9864] Reloading web server configurations
+2024-01-15 22:45:12 CRITICAL sshd: [3680.0835] Accepted publickey for ubuntu
+2024-01-15 22:49:12 INFO systemd: [6918.4150] Checking disk quotas
+2024-01-15 22:53:16 INFO sshd: [2001.3837] Reloading web server configurations
+2024-01-15 22:53:58 INFO kernel: [1591.6804] Session opened for user admin
+2024-01-15 22:57:44 INFO nginx: [2304.0844] Accepted publickey for ubuntu
+2024-01-15 23:02:37 INFO nginx: [7607.4042] Serving GET request to /index.html
+2024-01-15 23:03:15 ERROR kernel: [3739.1952] Starting cleanup of temporary directories
+2024-01-15 23:04:34 INFO apache2: [7936.7208] Accepted publickey for ubuntu
+2024-01-15 23:07:54 INFO nginx: [2513.5490] Serving GET request to /index.html
+2024-01-15 23:10:11 INFO sshd: [4661.6915] Serving GET request to /index.html
+2024-01-15 23:13:19 INFO systemd: [4496.6681] Serving GET request to /index.html
+2024-01-15 23:13:49 INFO cron: [3599.4893] Accepted publickey for ubuntu
+2024-01-15 23:15:24 INFO sshd: [7216.7618] Checking disk quotas
+2024-01-15 23:19:00 INFO systemd: [7970.3314] Accepted publickey for ubuntu
+2024-01-15 23:21:49 INFO sudo: [2237.4707] Checking disk quotas
+2024-01-15 23:23:46 INFO sudo: [7677.5065] Serving GET request to /index.html
+2024-01-15 23:28:45 INFO systemd: [3191.6450] Starting cleanup of temporary directories
+2024-01-15 23:30:03 INFO sudo: [2936.2488] Connection closed by authenticating user root
+2024-01-15 23:33:53 INFO kernel: [5835.3425] Finished system daily tasks
+2024-01-15 23:37:54 WARNING nginx: [1109.7730] Session opened for user admin
+2024-01-15 23:41:05 WARNING systemd: [3947.7357] Reloading web server configurations
+2024-01-15 23:45:26 WARNING sshd: [3188.1759] Session opened for user admin
+2024-01-15 23:49:06 INFO cron: [6880.1804] Finished system daily tasks
+2024-01-15 23:52:42 INFO systemd: [3247.7115] Session opened for user admin
+2024-01-15 23:55:16 INFO sudo: [5683.3305] Reloading web server configurations
+2024-01-15 23:59:36 INFO nginx: [466.9647] Finished system daily tasks
+2024-01-15 23:59:50 INFO sudo: [3752.2580] Serving GET request to /index.html
+2024-01-16 00:04:02 INFO kernel: [5361.8100] Accepted publickey for ubuntu
+2024-01-16 00:05:21 INFO apache2: [7732.1070] Checking disk quotas
+2024-01-16 00:07:16 WARNING kernel: [5059.0599] Accepted publickey for ubuntu
+2024-01-16 00:10:27 ERROR sudo: [2776.5145] Checking disk quotas
+2024-01-16 00:14:27 INFO sudo: [8945.6511] Finished system daily tasks
+2024-01-16 00:15:35 ERROR kernel: [1622.9604] Connection closed by authenticating user root
+2024-01-16 00:18:36 INFO nginx: [9951.5459] Starting cleanup of temporary directories
+2024-01-16 00:22:14 WARNING kernel: [7137.1715] Session opened for user admin
+2024-01-16 00:22:50 INFO cron: [8760.8460] Reloading web server configurations
+2024-01-16 00:23:45 INFO kernel: [352.0856] Serving GET request to /index.html
+2024-01-16 00:24:26 INFO sudo: [3543.6748] Serving GET request to /index.html
+2024-01-16 00:25:15 INFO cron: [9287.9852] Starting cleanup of temporary directories
+2024-01-16 00:26:48 INFO apache2: [9851.2119] Reloading web server configurations
+2024-01-16 00:29:08 INFO sudo: [9273.4351] Connection closed by authenticating user root
+2024-01-16 00:29:24 ERROR kernel: [5713.1067] Finished system daily tasks
+2024-01-16 00:29:29 WARNING sudo: [3330.1045] unauthorized access attempt to /etc/shadow
+2024-01-16 00:30:25 INFO apache2: [883.0652] Finished system daily tasks
+2024-01-16 00:31:49 INFO kernel: [7488.3497] Accepted publickey for ubuntu
+2024-01-16 00:34:18 INFO apache2: [7941.1247] Reloading web server configurations
+2024-01-16 00:38:04 WARNING cron: [659.6347] Reloading web server configurations
+2024-01-16 00:39:25 INFO systemd: [4022.6589] Serving GET request to /index.html
+2024-01-16 00:42:05 WARNING sshd: [850.5901] Finished system daily tasks
+2024-01-16 00:45:36 INFO nginx: [9570.8758] Session opened for user admin
+2024-01-16 00:47:05 INFO apache2: [5878.8475] Finished system daily tasks
+2024-01-16 00:47:50 WARNING sudo: [7517.8210] Starting cleanup of temporary directories
+2024-01-16 00:51:36 INFO cron: [8179.9012] Reloading web server configurations
+2024-01-16 00:52:56 INFO nginx: [6867.3619] Reloading web server configurations
+2024-01-16 00:54:44 INFO systemd: [6733.3700] Accepted publickey for ubuntu
+2024-01-16 00:58:40 INFO nginx: [7369.4899] Session opened for user admin
+2024-01-16 00:58:55 INFO sudo: [5452.1138] Connection closed by authenticating user root
+2024-01-16 01:03:35 WARNING systemd: [7664.7107] Finished system daily tasks
+2024-01-16 01:07:39 INFO sshd: [5236.4502] Checking disk quotas
+2024-01-16 01:10:02 WARNING systemd: [3667.2364] Checking disk quotas
+2024-01-16 01:13:58 INFO systemd: [5318.1955] Accepted publickey for ubuntu
+2024-01-16 01:14:16 INFO kernel: [8237.8699] Serving GET request to /index.html
+2024-01-16 01:14:54 INFO sudo: [5156.8096] Session opened for user admin
+2024-01-16 01:19:16 ERROR kernel: [7849.6764] Reloading web server configurations
+2024-01-16 01:20:20 ERROR nginx: [5215.9734] Connection closed by authenticating user root
+2024-01-16 01:22:10 ERROR systemd: [9507.1930] Reloading web server configurations
+2024-01-16 01:25:57 ERROR nginx: [3871.8921] Session opened for user admin
+2024-01-16 01:30:48 WARNING sudo: [6395.2768] Connection closed by authenticating user root
+2024-01-16 01:35:46 INFO nginx: [7216.2834] Accepted publickey for ubuntu
+2024-01-16 01:38:32 INFO systemd: [2719.4065] Session opened for user admin
+2024-01-16 01:40:51 WARNING nginx: [5968.1749] Finished system daily tasks
+2024-01-16 01:42:01 INFO kernel: [5124.0788] Session opened for user admin
+2024-01-16 01:43:08 ERROR systemd: [7218.0153] Finished system daily tasks
+2024-01-16 01:44:27 CRITICAL cron: [8813.4625] Starting cleanup of temporary directories
+2024-01-16 01:48:49 INFO apache2: [331.3722] Accepted publickey for ubuntu
+2024-01-16 01:53:45 INFO nginx: [2312.1333] Reloading web server configurations
+2024-01-16 01:58:39 INFO nginx: [2273.0218] Serving GET request to /index.html
+2024-01-16 02:00:19 INFO sudo: [2040.9641] Accepted publickey for ubuntu
+2024-01-16 02:01:41 INFO sshd: [8076.3856] Session opened for user admin
+2024-01-16 02:04:45 INFO sshd: [3563.8560] Accepted publickey for ubuntu
+2024-01-16 02:05:14 INFO nginx: [3866.8188] Accepted publickey for ubuntu
+2024-01-16 02:05:32 INFO nginx: [1716.1127] Reloading web server configurations
+2024-01-16 02:08:06 INFO apache2: [6565.3523] Starting cleanup of temporary directories
+2024-01-16 02:12:08 INFO kernel: [9729.6481] Starting cleanup of temporary directories
+2024-01-16 02:14:03 INFO apache2: [8771.7591] Checking disk quotas
+2024-01-16 02:14:47 INFO sshd: [2999.7299] Serving GET request to /index.html
+2024-01-16 02:16:20 WARNING sudo: [1829.6088] Starting cleanup of temporary directories
+2024-01-16 02:20:25 CRITICAL sshd: [3779.5848] Accepted publickey for ubuntu
+2024-01-16 02:23:59 ERROR kernel: [6240.9220] Checking disk quotas
+2024-01-16 02:24:10 INFO sshd: [2452.2301] Session opened for user admin
+2024-01-16 02:25:31 WARNING cron: [534.2813] Accepted publickey for ubuntu
+2024-01-16 02:28:25 ERROR sshd: [8365.9615] Connection closed by authenticating user root
+2024-01-16 02:30:41 INFO cron: [1839.8467] Connection closed by authenticating user root
+2024-01-16 02:30:45 WARNING apache2: [8776.6197] excessive connections from 192.168.1.100
+2024-01-16 02:31:54 INFO sudo: [9193.6908] Session opened for user admin
+2024-01-16 02:36:30 ERROR apache2: [6491.5933] Finished system daily tasks
+2024-01-16 02:39:38 ERROR sshd: [9177.0165] Reloading web server configurations
+2024-01-16 02:44:10 INFO sshd: [8168.8868] Serving GET request to /index.html
+2024-01-16 02:47:16 INFO cron: [9429.1082] Session opened for user admin
+2024-01-16 02:51:00 INFO nginx: [7672.0901] Session opened for user admin
+2024-01-16 02:51:11 INFO apache2: [6553.4218] Accepted publickey for ubuntu
+2024-01-16 02:53:09 WARNING kernel: [6539.0013] Accepted publickey for ubuntu
+2024-01-16 02:53:59 INFO systemd: [2644.3930] Reloading web server configurations
+2024-01-16 02:58:29 INFO sudo: [8025.6375] Finished system daily tasks
+2024-01-16 03:01:13 CRITICAL apache2: [2285.8292] Connection closed by authenticating user root
+2024-01-16 03:01:53 WARNING sshd: [6100.0165] Checking disk quotas
+2024-01-16 03:05:05 INFO nginx: [719.9678] Accepted publickey for ubuntu
+2024-01-16 03:09:22 WARNING nginx: [2842.3031] Connection closed by authenticating user root
+2024-01-16 03:12:43 INFO cron: [7832.5326] Reloading web server configurations
+2024-01-16 03:16:59 INFO sudo: [5734.4799] Session opened for user admin
+2024-01-16 03:18:59 WARNING sudo: [2424.7879] Connection closed by authenticating user root
+2024-01-16 03:23:16 WARNING cron: [2160.2163] Connection closed by authenticating user root
+2024-01-16 03:24:45 INFO systemd: [955.5097] Starting cleanup of temporary directories
+2024-01-16 03:26:37 INFO nginx: [1523.2043] Checking disk quotas
+2024-01-16 03:27:19 INFO apache2: [7764.6888] Connection closed by authenticating user root
+2024-01-16 03:30:24 INFO apache2: [9221.1028] Reloading web server configurations
+2024-01-16 03:30:35 INFO nginx: [4351.0746] Starting cleanup of temporary directories
+2024-01-16 03:32:46 ERROR nginx: [1221.9596] Session opened for user admin
+2024-01-16 03:33:38 WARNING apache2: [1062.5753] Finished system daily tasks
+2024-01-16 03:37:33 INFO kernel: [7924.9538] Finished system daily tasks
+2024-01-16 03:41:39 INFO sudo: [8226.0317] Reloading web server configurations
+2024-01-16 03:43:46 ERROR kernel: [4324.4700] Serving GET request to /index.html
+2024-01-16 03:45:25 INFO kernel: [6464.1001] Finished system daily tasks
+2024-01-16 03:46:10 INFO kernel: [4744.4812] Accepted publickey for ubuntu
+2024-01-16 03:47:09 INFO sshd: [6599.7698] Starting cleanup of temporary directories
+2024-01-16 03:49:17 INFO cron: [5819.6663] Serving GET request to /index.html
+2024-01-16 03:51:33 INFO cron: [7000.6752] Accepted publickey for ubuntu
+2024-01-16 03:52:09 INFO nginx: [5635.3038] Reloading web server configurations
+2024-01-16 03:53:31 INFO cron: [9044.5191] Serving GET request to /index.html
+2024-01-16 03:57:24 INFO sshd: [1968.1464] Accepted publickey for ubuntu
+2024-01-16 04:01:55 WARNING sshd: [7622.7799] Finished system daily tasks
+2024-01-16 04:06:34 INFO nginx: [1335.0118] Connection closed by authenticating user root
+2024-01-16 04:07:39 ERROR sshd: [7967.4795] Reloading web server configurations
+2024-01-16 04:10:58 INFO sudo: [5824.3169] Accepted publickey for ubuntu
+2024-01-16 04:11:37 WARNING kernel: [4988.2064] Reloading web server configurations
+2024-01-16 04:13:11 INFO sudo: [4061.7414] Reloading web server configurations
+2024-01-16 04:14:50 WARNING sudo: [9895.5645] Finished system daily tasks
+2024-01-16 04:16:39 WARNING sshd: [3012.1376] Checking disk quotas
+2024-01-16 04:19:22 WARNING cron: [6745.5622] Session opened for user admin
+2024-01-16 04:21:41 WARNING cron: [331.1803] Serving GET request to /index.html
+2024-01-16 04:26:35 INFO nginx: [9281.8487] Finished system daily tasks
+2024-01-16 04:28:10 INFO nginx: [8283.5068] Session opened for user admin
+2024-01-16 04:32:17 WARNING nginx: [6994.1152] Starting cleanup of temporary directories
+2024-01-16 04:34:48 INFO sudo: [355.7907] Connection closed by authenticating user root
+2024-01-16 04:37:43 CRITICAL kernel: [2320.3106] Starting cleanup of temporary directories
+2024-01-16 04:40:01 INFO systemd: [2145.6407] Checking disk quotas
+2024-01-16 04:43:56 INFO kernel: [624.0745] Reloading web server configurations

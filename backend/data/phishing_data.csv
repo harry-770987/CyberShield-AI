@@ -1,0 +1,500 @@
+url,email_body,url_length,num_dots,num_hyphens,num_at,num_digits,has_ip,is_https,subdomain_count,suspicious_words_count,domain_length,label
+https://www.microsoft.com/about,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,17,0
+http://update-update.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,66,2,3,0,3,0,0,1,4,37,1
+https://www.netflix.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/contact,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/about,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0
+https://www.google.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+http://update-verify-update.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,4,44,1
+http://206.139.48.176/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,31,4,0,0,11,1,0,0,1,14,1
+http://update-login.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",61,2,3,0,3,0,0,1,4,32,1
+https://www.amazon.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+https://www.google.com/index,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/index,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,15,0
+http://secure-update-update.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,69,2,4,0,3,0,0,1,4,40,1
+http://secure-login-update.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",67,2,3,0,3,0,0,1,4,38,1
+https://www.netflix.com/home,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,15,0
+http://verify-login-secure.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,67,2,3,0,3,0,0,1,3,38,1
+http://login-update.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",61,2,3,0,3,0,0,1,3,32,1
+https://www.apple.com/home,Thanks for subscribing to our newsletter! Here are the top stories for this week.,26,2,0,0,0,0,1,1,0,13,0
+http://192.131.115.60/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+http://secure-secure.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,2,0,3,0,0,1,2,32,1
+http://update-secure.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,62,2,3,0,3,0,0,1,3,33,1
+https://www.linkedin.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,32,2,0,0,0,0,1,1,0,16,0
+https://www.google.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/index,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://verify-secure-login.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,72,2,4,0,3,0,0,1,4,43,1
+https://www.amazon.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://126.114.27.174/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",31,4,0,0,11,1,0,0,1,14,1
+http://update-verify.secure-login-update.com/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",66,2,3,0,3,0,0,1,4,37,1
+https://www.google.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://login.verify-account-info.xyz/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,58,2,2,0,3,0,0,1,3,29,1
+https://www.amazon.com/index,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://login-login.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,60,2,3,0,3,0,0,1,2,31,1
+https://www.amazon.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://update-update-verify.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,69,2,4,0,3,0,0,1,2,40,1
+https://www.linkedin.com/contact,Your account statement for this month is now available online.,32,2,0,0,0,0,1,1,0,16,0
+http://login-verify.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,61,2,3,0,3,0,0,1,2,32,1
+http://login.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,53,2,1,0,3,0,0,1,2,24,1
+https://www.google.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+http://verify.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",54,2,1,0,3,0,0,1,1,25,1
+http://update.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,59,2,2,0,3,0,0,1,4,30,1
+https://www.microsoft.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",33,2,0,0,0,0,1,1,0,17,0
+https://www.apple.com/contact,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,13,0
+https://www.netflix.com/contact,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,15,0
+http://verify-secure-verify.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,73,2,4,0,3,0,0,1,4,44,1
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+http://login-update-verify.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,4,0,3,0,0,1,3,39,1
+http://update.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,54,2,1,0,3,0,0,1,2,25,1
+http://150.246.85.70/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",30,4,0,0,10,1,0,0,1,13,1
+https://www.microsoft.com/home,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,17,0
+http://secure-update.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,62,2,3,0,3,0,0,1,4,33,1
+https://www.linkedin.com/home,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,16,0
+https://www.netflix.com/index,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://232.48.182.162/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",31,4,0,0,11,1,0,0,1,14,1
+https://www.github.com/contact,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/contact,Your order #12345 has shipped. Click here to track your package.,33,2,0,0,0,0,1,1,0,17,0
+http://verify-update.apple-id-support.tk/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,62,2,3,0,3,0,0,1,2,33,1
+https://www.microsoft.com/index,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,17,0
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://login.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,54,2,2,0,3,0,0,1,3,25,1
+http://verify.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,2,26,1
+http://verify.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,59,2,2,0,3,0,0,1,4,30,1
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://verify-secure-secure.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,3,44,1
+http://119.237.213.13/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,31,4,0,0,11,1,0,0,1,14,1
+https://www.apple.com/about,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+https://www.google.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/index,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+https://www.linkedin.com/home,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,16,0
+https://www.google.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+http://secure.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",54,2,1,0,3,0,0,1,2,25,1
+https://www.amazon.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://update.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,59,2,2,0,3,0,0,1,4,30,1
+https://www.microsoft.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,17,0
+http://verify.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,55,2,2,0,3,0,0,1,2,26,1
+https://www.github.com/home,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,14,0
+http://118.217.242.114/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",32,4,0,0,12,1,0,0,1,15,1
+http://secure.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,55,2,2,0,3,0,0,1,2,26,1
+http://login.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,53,2,1,0,3,0,0,1,2,24,1
+https://www.linkedin.com/about,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,16,0
+https://www.github.com/contact,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+https://www.linkedin.com/home,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,16,0
+http://login.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,53,2,1,0,3,0,0,1,2,24,1
+https://www.google.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.linkedin.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,16,0
+https://www.apple.com/index,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,13,0
+https://www.apple.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+https://www.linkedin.com/contact,Your order #12345 has shipped. Click here to track your package.,32,2,0,0,0,0,1,1,0,16,0
+https://www.microsoft.com/contact,Your account statement for this month is now available online.,33,2,0,0,0,0,1,1,0,17,0
+http://login-login.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,64,2,3,0,3,0,0,1,4,35,1
+http://secure-secure.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,61,2,2,0,3,0,0,1,2,32,1
+https://www.google.com/index,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://update-secure.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,62,2,3,0,3,0,0,1,4,33,1
+http://update-login.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,60,2,2,0,3,0,0,1,3,31,1
+http://138.204.222.186/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,32,4,0,0,12,1,0,0,1,15,1
+https://www.netflix.com/about,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0
+http://login-verify-update.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,4,0,3,0,0,1,3,39,1
+https://www.google.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://login-update.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,60,2,2,0,3,0,0,1,3,31,1
+http://verify-secure-secure.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,68,2,3,0,3,0,0,1,2,39,1
+http://157.208.121.42/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+https://www.microsoft.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+https://www.microsoft.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,33,2,0,0,0,0,1,1,0,17,0
+https://www.netflix.com/about,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,15,0
+http://update.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,1,0,3,0,0,1,2,25,1
+https://www.linkedin.com/contact,Your order #12345 has shipped. Click here to track your package.,32,2,0,0,0,0,1,1,0,16,0
+http://secure-secure.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,61,2,2,0,3,0,0,1,2,32,1
+http://update.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,3,26,1
+http://secure-login.verify-account-info.xyz/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,65,2,3,0,3,0,0,1,4,36,1
+https://www.microsoft.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",31,2,0,0,0,0,1,1,0,17,0
+https://www.amazon.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+http://update.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,59,2,2,0,3,0,0,1,4,30,1
+https://www.google.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/index,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+http://210.242.101.192/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,32,4,0,0,12,1,0,0,1,15,1
+https://www.linkedin.com/contact,Can we reschedule our call to next Thursday? Let me know.,32,2,0,0,0,0,1,1,0,16,0
+http://secure.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,54,2,1,0,3,0,0,1,2,25,1
+https://www.apple.com/contact,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,13,0
+https://www.apple.com/about,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+https://www.linkedin.com/index,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,16,0
+http://verify.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,59,2,2,0,3,0,0,1,2,30,1
+https://www.google.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://209.168.229.201/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,32,4,0,0,12,1,0,0,1,15,1
+https://www.linkedin.com/home,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,16,0
+https://www.microsoft.com/home,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,17,0
+https://www.netflix.com/about,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,15,0
+https://www.linkedin.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,16,0
+https://www.microsoft.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,3,26,1
+https://www.github.com/index,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/index,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+https://www.github.com/about,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://224.12.29.191/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/about,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,15,0
+https://www.microsoft.com/contact,Your account statement for this month is now available online.,33,2,0,0,0,0,1,1,0,17,0
+http://login-secure.verify-account-info.xyz/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,65,2,3,0,3,0,0,1,4,36,1
+http://login-update.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,60,2,2,0,3,0,0,1,3,31,1
+https://www.microsoft.com/index,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+http://237.186.191.124/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,32,4,0,0,12,1,0,0,1,15,1
+https://www.microsoft.com/about,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,17,0
+http://login-verify.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,65,2,3,0,3,0,0,1,4,36,1
+http://verify-secure-verify.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,69,2,4,0,3,0,0,1,3,40,1
+http://90.93.109.235/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,30,4,0,0,10,1,0,0,1,13,1
+http://login-secure-verify.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,68,2,4,0,3,0,0,1,4,39,1
+http://login-login-verify.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,71,2,4,0,3,0,0,1,3,42,1
+http://57.152.65.43/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",29,4,0,0,9,1,0,0,1,12,1
+http://verify-secure.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,66,2,3,0,3,0,0,1,4,37,1
+https://www.github.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+https://www.google.com/about,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://secure.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,59,2,2,0,3,0,0,1,4,30,1
+http://verify.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,2,26,1
+http://login.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,2,0,3,0,0,1,2,25,1
+https://www.apple.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",26,2,0,0,0,0,1,1,0,13,0
+http://verify-update-update.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,69,2,4,0,3,0,0,1,3,40,1
+https://www.apple.com/index,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+http://189.70.147.105/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+https://www.netflix.com/contact,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,15,0
+http://login-verify-login.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,67,2,4,0,3,0,0,1,3,38,1
+https://www.linkedin.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",32,2,0,0,0,0,1,1,0,16,0
+http://verify-secure.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",61,2,2,0,3,0,0,1,2,32,1
+https://www.apple.com/contact,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,13,0
+http://verify.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,59,2,2,0,3,0,0,1,4,30,1
+http://verify.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,55,2,2,0,3,0,0,1,2,26,1
+https://www.google.com/home,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,14,0
+http://verify-login-update.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,67,2,3,0,3,0,0,1,3,38,1
+http://login-login.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,64,2,3,0,3,0,0,1,4,35,1
+https://www.github.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://update-login.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,65,2,3,0,3,0,0,1,4,36,1
+https://www.linkedin.com/about,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,16,0
+https://www.google.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://update.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,59,2,2,0,3,0,0,1,4,30,1
+http://login.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,58,2,2,0,3,0,0,1,4,29,1
+https://www.netflix.com/about,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+http://verify.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",54,2,1,0,3,0,0,1,1,25,1
+https://www.netflix.com/home,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,15,0
+https://www.linkedin.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,16,0
+http://17.144.10.140/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/contact,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,15,0
+https://www.microsoft.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+https://www.github.com/contact,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,14,0
+http://secure.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,1,0,3,0,0,1,2,25,1
+http://213.112.160.100/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",32,4,0,0,12,1,0,0,1,15,1
+http://206.238.233.87/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+https://www.microsoft.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",33,2,0,0,0,0,1,1,0,17,0
+https://www.github.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,33,2,0,0,0,0,1,1,0,17,0
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://78.49.252.234/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,30,4,0,0,10,1,0,0,1,13,1
+http://verify.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,55,2,2,0,3,0,0,1,1,26,1
+http://verify.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,2,26,1
+https://www.microsoft.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,17,0
+https://www.amazon.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+http://220.28.52.254/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,30,4,0,0,10,1,0,0,1,13,1
+https://www.github.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://secure-login.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",60,2,2,0,3,0,0,1,3,31,1
+https://www.apple.com/about,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,13,0
+https://www.netflix.com/index,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0
+https://www.apple.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,3,26,1
+https://www.google.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+https://www.google.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+https://www.linkedin.com/home,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,16,0
+http://secure.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,55,2,2,0,3,0,0,1,3,26,1
+https://www.amazon.com/index,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://login-login.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,64,2,3,0,3,0,0,1,4,35,1
+https://www.microsoft.com/about,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+https://www.linkedin.com/home,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,16,0
+https://www.apple.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",27,2,0,0,0,0,1,1,0,13,0
+https://www.netflix.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+http://verify-update-login.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,67,2,3,0,3,0,0,1,3,38,1
+https://www.github.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+http://verify-update.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,62,2,3,0,3,0,0,1,3,33,1
+http://verify-update.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,62,2,3,0,3,0,0,1,3,33,1
+https://www.microsoft.com/about,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+http://login-verify-login.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,67,2,4,0,3,0,0,1,2,38,1
+http://verify-update.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,62,2,3,0,3,0,0,1,3,33,1
+http://verify-update-secure.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,4,44,1
+http://update-secure.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,62,2,3,0,3,0,0,1,4,33,1
+http://update.verify-account-info.xyz/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",59,2,2,0,3,0,0,1,3,30,1
+https://www.google.com/home,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,14,0
+http://login-verify.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,61,2,3,0,3,0,0,1,3,32,1
+http://verify-login.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,2,32,1
+https://www.netflix.com/index,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+https://www.linkedin.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,32,2,0,0,0,0,1,1,0,16,0
+http://verify.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,59,2,2,0,3,0,0,1,2,30,1
+https://www.apple.com/index,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,13,0
+https://www.apple.com/index,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,13,0
+http://secure.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,54,2,1,0,3,0,0,1,2,25,1
+http://verify-update.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,61,2,2,0,3,0,0,1,2,32,1
+https://www.apple.com/home,Your order #12345 has shipped. Click here to track your package.,26,2,0,0,0,0,1,1,0,13,0
+https://www.linkedin.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,32,2,0,0,0,0,1,1,0,16,0
+https://www.linkedin.com/about,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,16,0
+http://verify-verify.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,62,2,3,0,3,0,0,1,2,33,1
+http://verify-secure.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,66,2,3,0,3,0,0,1,3,37,1
+https://www.google.com/contact,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,14,0
+http://secure-verify-secure.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,3,44,1
+http://secure.secure-login-update.com/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",59,2,2,0,3,0,0,1,4,30,1
+https://www.microsoft.com/home,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,17,0
+https://www.microsoft.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+http://78.19.243.77/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,29,4,0,0,9,1,0,0,1,12,1
+https://www.google.com/home,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,14,0
+http://86.99.226.222/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,30,4,0,0,10,1,0,0,1,13,1
+http://update-secure-verify.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,69,2,4,0,3,0,0,1,4,40,1
+https://www.google.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/home,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,14,0
+http://verify-secure-verify.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",69,2,4,0,3,0,0,1,3,40,1
+http://254.133.132.147/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,32,4,0,0,12,1,0,0,1,15,1
+http://secure-verify-verify.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,73,2,4,0,3,0,0,1,4,44,1
+https://www.google.com/home,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,14,0
+http://72.173.198.84/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/about,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0
+https://www.amazon.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://update.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,59,2,2,0,3,0,0,1,4,30,1
+https://www.google.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+http://login-update.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,4,32,1
+https://www.apple.com/home,Your order #12345 has shipped. Click here to track your package.,26,2,0,0,0,0,1,1,0,13,0
+https://www.microsoft.com/home,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,17,0
+https://www.amazon.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+http://verify-verify.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,62,2,3,0,3,0,0,1,2,33,1
+http://verify-login-secure.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,72,2,4,0,3,0,0,1,4,43,1
+http://secure.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,54,2,1,0,3,0,0,1,2,25,1
+https://www.linkedin.com/index,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,16,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,55,2,2,0,3,0,0,1,3,26,1
+https://www.linkedin.com/home,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,16,0
+https://www.microsoft.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+http://update-verify-verify.verify-account-info.xyz/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",73,2,4,0,3,0,0,1,3,44,1
+https://www.microsoft.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,33,2,0,0,0,0,1,1,0,17,0
+https://www.netflix.com/contact,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,15,0
+https://www.netflix.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",29,2,0,0,0,0,1,1,0,15,0
+https://www.netflix.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,15,0
+http://105.207.158.112/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,32,4,0,0,12,1,0,0,1,15,1
+https://www.google.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+http://update-update.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",62,2,3,0,3,0,0,1,2,33,1
+https://www.microsoft.com/index,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+http://update-verify-login.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",67,2,3,0,3,0,0,1,3,38,1
+https://www.amazon.com/about,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://login-secure.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,65,2,3,0,3,0,0,1,4,36,1
+http://verify-login-verify.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,72,2,4,0,3,0,0,1,4,43,1
+http://login-verify.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",61,2,3,0,3,0,0,1,3,32,1
+https://www.amazon.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://14.46.151.7/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,28,4,0,0,8,1,0,0,1,11,1
+http://login-update.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,3,32,1
+https://www.linkedin.com/contact,Can we reschedule our call to next Thursday? Let me know.,32,2,0,0,0,0,1,1,0,16,0
+https://www.amazon.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/home,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/index,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,17,0
+http://verify.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,1,26,1
+http://verify-secure-login.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,67,2,3,0,3,0,0,1,3,38,1
+http://login-update-secure.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,68,2,4,0,3,0,0,1,5,39,1
+https://www.github.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://secure.secure-login-update.com/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",59,2,2,0,3,0,0,1,4,30,1
+http://197.114.39.50/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,30,4,0,0,10,1,0,0,1,13,1
+http://update-login.apple-id-support.tk/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,61,2,3,0,3,0,0,1,3,32,1
+https://www.google.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/about,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://update-secure-update.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,73,2,4,0,3,0,0,1,4,44,1
+https://www.linkedin.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,16,0
+http://verify-update-secure.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,68,2,3,0,3,0,0,1,3,39,1
+https://www.apple.com/index,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,13,0
+https://www.netflix.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+http://secure-update-login.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,4,0,3,0,0,1,4,39,1
+https://www.amazon.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,55,2,2,0,3,0,0,1,3,26,1
+https://www.apple.com/index,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+https://www.microsoft.com/index,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,17,0
+https://www.netflix.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+https://www.google.com/home,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,14,0
+http://verify-login-update.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,67,2,3,0,3,0,0,1,3,38,1
+http://login-secure-verify.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,68,2,4,0,3,0,0,1,4,39,1
+https://www.netflix.com/about,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/contact,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,14,0
+http://164.59.104.168/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,31,4,0,0,11,1,0,0,1,14,1
+http://136.67.214.151/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",31,4,0,0,11,1,0,0,1,14,1
+http://login-update.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,65,2,3,0,3,0,0,1,4,36,1
+https://www.netflix.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",29,2,0,0,0,0,1,1,0,15,0
+https://www.apple.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+https://www.github.com/contact,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,14,0
+http://21.165.76.144/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,30,4,0,0,10,1,0,0,1,13,1
+http://verify.verify-account-info.xyz/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,59,2,2,0,3,0,0,1,2,30,1
+https://www.google.com/index,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://secure-update-login.secure-login-update.com/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,72,2,4,0,3,0,0,1,4,43,1
+https://www.linkedin.com/index,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,16,0
+http://verify.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,59,2,2,0,3,0,0,1,2,30,1
+http://update.verify-account-info.xyz/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,59,2,2,0,3,0,0,1,3,30,1
+https://www.amazon.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/about,Can we reschedule our call to next Thursday? Let me know.,31,2,0,0,0,0,1,1,0,17,0
+http://secure-secure-login.verify-account-info.xyz/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,72,2,4,0,3,0,0,1,4,43,1
+http://secure-secure-secure.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,3,0,3,0,0,1,2,39,1
+https://www.microsoft.com/about,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,17,0
+https://www.linkedin.com/about,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,16,0
+https://www.github.com/contact,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/home,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,15,0
+http://secure-verify-verify.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,73,2,4,0,3,0,0,1,3,44,1
+https://www.github.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,28,2,0,0,0,0,1,1,0,14,0
+http://login-login.verify-account-info.xyz/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",64,2,3,0,3,0,0,1,3,35,1
+http://50.18.197.164/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,30,4,0,0,10,1,0,0,1,13,1
+http://login.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,54,2,2,0,3,0,0,1,3,25,1
+https://www.apple.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",29,2,0,0,0,0,1,1,0,13,0
+https://www.linkedin.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,16,0
+https://www.microsoft.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,17,0
+http://secure.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",54,2,1,0,3,0,0,1,2,25,1
+http://update.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,59,2,2,0,3,0,0,1,4,30,1
+http://99.14.255.174/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.linkedin.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,16,0
+https://www.apple.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,13,0
+https://www.google.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,27,2,0,0,0,0,1,1,0,13,0
+http://update-verify.amazon-free-gift.cc/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,62,2,3,0,3,0,0,1,3,33,1
+https://www.netflix.com/index,Can we reschedule our call to next Thursday? Let me know.,29,2,0,0,0,0,1,1,0,15,0
+https://www.google.com/home,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,14,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,3,26,1
+http://update.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,1,0,3,0,0,1,2,25,1
+http://188.66.128.114/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,31,4,0,0,11,1,0,0,1,14,1
+https://www.apple.com/about,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,13,0
+http://157.185.29.206/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,31,4,0,0,11,1,0,0,1,14,1
+https://www.linkedin.com/about,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,16,0
+https://www.apple.com/home,Your order #12345 has shipped. Click here to track your package.,26,2,0,0,0,0,1,1,0,13,0
+http://secure-update-update.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",69,2,4,0,3,0,0,1,3,40,1
+http://205.248.73.112/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",31,4,0,0,11,1,0,0,1,14,1
+https://www.github.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/home,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,17,0
+http://47.186.239.15/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/home,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,15,0
+http://update-update-login.amazon-free-gift.cc/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,68,2,4,0,3,0,0,1,4,39,1
+http://secure-login.verify-account-info.xyz/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",65,2,3,0,3,0,0,1,4,36,1
+http://secure-secure-secure.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,4,44,1
+https://www.linkedin.com/index,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,16,0
+https://www.google.com/about,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://login-update.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,60,2,2,0,3,0,0,1,3,31,1
+https://www.amazon.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://secure.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,55,2,2,0,3,0,0,1,2,26,1
+http://verify-verify.apple-id-support.tk/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,62,2,3,0,3,0,0,1,1,33,1
+http://secure-update.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,2,0,3,0,0,1,3,32,1
+https://www.netflix.com/home,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,15,0
+https://www.apple.com/index,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,13,0
+https://www.apple.com/about,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,13,0
+http://secure-login.verify-account-info.xyz/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,65,2,3,0,3,0,0,1,4,36,1
+https://www.github.com/home,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/about,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+https://www.linkedin.com/index,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,16,0
+http://verify-verify.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,61,2,2,0,3,0,0,1,1,32,1
+https://www.github.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",28,2,0,0,0,0,1,1,0,14,0
+http://197.211.179.96/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,31,4,0,0,11,1,0,0,1,14,1
+http://57.114.181.255/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+http://login-verify.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,2,32,1
+https://www.google.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.linkedin.com/about,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,16,0
+http://83.90.41.100/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,29,4,0,0,9,1,0,0,1,12,1
+https://www.apple.com/about,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+http://155.19.234.220/login.php,URGENT: Verify your account immediately or it will be suspended in 24 hours.,31,4,0,0,11,1,0,0,1,14,1
+http://verify.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,1,26,1
+http://secure-secure.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,66,2,3,0,3,0,0,1,4,37,1
+http://secure.paypal-security.ml/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,54,2,1,0,3,0,0,1,2,25,1
+http://verify.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,2,26,1
+http://login-update-login.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",66,2,3,0,3,0,0,1,3,37,1
+http://224.134.179.65/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,31,4,0,0,11,1,0,0,1,14,1
+https://www.github.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",27,2,0,0,0,0,1,1,0,13,0
+https://www.netflix.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+https://www.microsoft.com/home,Your account statement for this month is now available online.,30,2,0,0,0,0,1,1,0,17,0
+https://www.netflix.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/about,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+http://140.57.188.232/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,31,4,0,0,11,1,0,0,1,14,1
+http://update.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,54,2,1,0,3,0,0,1,2,25,1
+http://secure-secure-secure.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,68,2,3,0,3,0,0,1,2,39,1
+https://www.linkedin.com/home,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,16,0
+http://secure-secure-login.paypal-security.ml/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,67,2,3,0,3,0,0,1,3,38,1
+http://secure.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,3,26,1
+http://200.71.205.36/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,30,4,0,0,10,1,0,0,1,13,1
+https://www.netflix.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+http://update-login.paypal-security.ml/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,60,2,2,0,3,0,0,1,3,31,1
+https://www.netflix.com/about,Thanks for subscribing to our newsletter! Here are the top stories for this week.,29,2,0,0,0,0,1,1,0,15,0
+https://www.github.com/contact,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,14,0
+http://verify-update-secure.secure-login-update.com/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,73,2,4,0,3,0,0,1,4,44,1
+http://secure.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,55,2,2,0,3,0,0,1,2,26,1
+https://www.google.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+http://secure-verify-update.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,69,2,4,0,3,0,0,1,3,40,1
+http://secure-verify.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",62,2,3,0,3,0,0,1,2,33,1
+https://www.microsoft.com/index,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,17,0
+http://secure-login-update.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,72,2,4,0,3,0,0,1,5,43,1
+http://verify.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",54,2,1,0,3,0,0,1,1,25,1
+https://www.google.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+http://secure-update.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,62,2,3,0,3,0,0,1,3,33,1
+http://verify-verify.secure-login-update.com/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,66,2,3,0,3,0,0,1,4,37,1
+http://update-secure.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,62,2,3,0,3,0,0,1,4,33,1
+http://update-update-secure.apple-id-support.tk/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,69,2,4,0,3,0,0,1,3,40,1
+http://verify-secure-update.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,4,44,1
+https://www.github.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/contact,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/index,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",31,2,0,0,0,0,1,1,0,17,0
+http://login.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,2,0,3,0,0,1,2,25,1
+https://www.google.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+http://secure.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,59,2,2,0,3,0,0,1,3,30,1
+https://www.amazon.com/home,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,14,0
+http://29.241.173.120/login.php,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,31,4,0,0,11,1,0,0,1,14,1
+http://login-verify.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,2,32,1
+http://login.secure-login-update.com/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,58,2,2,0,3,0,0,1,4,29,1
+https://www.linkedin.com/index,Can we reschedule our call to next Thursday? Let me know.,30,2,0,0,0,0,1,1,0,16,0
+http://verify-secure-update.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,69,2,4,0,3,0,0,1,3,40,1
+http://secure-secure-verify.verify-account-info.xyz/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,73,2,4,0,3,0,0,1,3,44,1
+http://203.227.145.8/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",30,4,0,0,10,1,0,0,1,13,1
+http://update-secure-login.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,4,0,3,0,0,1,4,39,1
+https://www.github.com/home,Your account statement for this month is now available online.,27,2,0,0,0,0,1,1,0,14,0
+http://220.86.57.237/login.php,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",30,4,0,0,10,1,0,0,1,13,1
+https://www.google.com/contact,Thanks for subscribing to our newsletter! Here are the top stories for this week.,30,2,0,0,0,0,1,1,0,14,0
+http://121.13.151.182/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,31,4,0,0,11,1,0,0,1,14,1
+https://www.microsoft.com/index,Your account statement for this month is now available online.,31,2,0,0,0,0,1,1,0,17,0
+http://verify-verify-update.secure-login-update.com/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",73,2,4,0,3,0,0,1,4,44,1
+http://update-login.amazon-free-gift.cc/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,61,2,3,0,3,0,0,1,4,32,1
+http://44.5.209.183/login.php,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,29,4,0,0,9,1,0,0,1,12,1
+http://secure-verify-secure.paypal-security.ml/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,68,2,3,0,3,0,0,1,2,39,1
+http://login-update-secure.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,4,0,3,0,0,1,5,39,1
+https://www.google.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://92.102.245.246/login.php,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,31,4,0,0,11,1,0,0,1,14,1
+http://update.apple-id-support.tk/auth/verify?token=123,Congratulations! You have won a $1000 gift card. Click here to claim your prize now.,55,2,2,0,3,0,0,1,2,26,1
+https://www.microsoft.com/about,Your order #12345 has shipped. Click here to track your package.,31,2,0,0,0,0,1,1,0,17,0
+http://login-login-login.apple-id-support.tk/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,66,2,4,0,3,0,0,1,2,37,1
+http://login-verify-login.verify-account-info.xyz/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,71,2,4,0,3,0,0,1,3,42,1
+http://update.amazon-free-gift.cc/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,55,2,2,0,3,0,0,1,3,26,1
+https://www.netflix.com/index,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,15,0
+https://www.google.com/index,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.google.com/contact,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/contact,Your account statement for this month is now available online.,29,2,0,0,0,0,1,1,0,13,0
+http://secure-verify.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",62,2,3,0,3,0,0,1,3,33,1
+http://verify-secure-login.verify-account-info.xyz/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",72,2,4,0,3,0,0,1,4,43,1
+http://login-secure-login.apple-id-support.tk/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",67,2,4,0,3,0,0,1,3,38,1
+http://login-verify-secure.apple-id-support.tk/auth/verify?token=123,Unusual sign-in activity detected on your account. Please secure your account by logging in here.,68,2,4,0,3,0,0,1,3,39,1
+https://www.github.com/about,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+http://login.apple-id-support.tk/auth/verify?token=123,URGENT: Verify your account immediately or it will be suspended in 24 hours.,54,2,2,0,3,0,0,1,2,25,1
+http://update-secure.verify-account-info.xyz/auth/verify?token=123,Your invoice #9981 is overdue. Download the attachment to view the details and pay.,66,2,3,0,3,0,0,1,4,37,1
+https://www.netflix.com/home,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,15,0
+https://www.google.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/about,Can we reschedule our call to next Thursday? Let me know.,27,2,0,0,0,0,1,1,0,13,0
+http://update.amazon-free-gift.cc/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",55,2,2,0,3,0,0,1,3,26,1
+https://www.apple.com/home,Can we reschedule our call to next Thursday? Let me know.,26,2,0,0,0,0,1,1,0,13,0
+https://www.github.com/index,Can we reschedule our call to next Thursday? Let me know.,28,2,0,0,0,0,1,1,0,14,0
+https://www.microsoft.com/contact,Can we reschedule our call to next Thursday? Let me know.,33,2,0,0,0,0,1,1,0,17,0
+https://www.microsoft.com/index,Thanks for subscribing to our newsletter! Here are the top stories for this week.,31,2,0,0,0,0,1,1,0,17,0
+https://www.google.com/contact,"Hi team, just a reminder about our meeting at 2 PM today. Please review the attached document.",30,2,0,0,0,0,1,1,0,14,0
+https://www.amazon.com/about,Your order #12345 has shipped. Click here to track your package.,28,2,0,0,0,0,1,1,0,14,0
+https://www.apple.com/about,Your order #12345 has shipped. Click here to track your package.,27,2,0,0,0,0,1,1,0,13,0
+https://www.github.com/contact,Your order #12345 has shipped. Click here to track your package.,30,2,0,0,0,0,1,1,0,14,0
+http://update-secure-secure.paypal-security.ml/auth/verify?token=123,"Dear customer, your bank account is compromised. Click this link to avoid suspension.",68,2,3,0,3,0,0,1,3,39,1
+https://www.amazon.com/index,Your account statement for this month is now available online.,28,2,0,0,0,0,1,1,0,14,0
+https://www.netflix.com/about,Your order #12345 has shipped. Click here to track your package.,29,2,0,0,0,0,1,1,0,15,0

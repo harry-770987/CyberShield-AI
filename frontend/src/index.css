@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyber-black: #0a0a0f;
+  --color-cyber-panel: #13131a;
+  --color-cyber-border: #1e1e2d;
+  --color-cyber-blue: #00f0ff;
+  --color-cyber-green: #39ff14;
+}
+
+@layer base {
+  body {
+    @apply bg-cyber-black text-gray-200 antialiased h-screen w-screen overflow-hidden;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Glassmorphism aesthetics matching SOC dashboards */
+.glass-panel {
+  @apply bg-cyber-panel/80 backdrop-blur-md border border-cyber-border rounded-xl shadow-xl shadow-black/50;
+}
+
+/* Custom scrollbar for data tables */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e1e2d;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00f0ff;
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease-out forwards;
+  }
+  .animate-slide-down {
+    animation: slideDown 0.3s ease-out forwards;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
